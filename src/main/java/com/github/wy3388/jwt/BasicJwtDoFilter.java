@@ -1,11 +1,8 @@
-package com.github.jwt;
+package com.github.wy3388.jwt;
 
 import com.alibaba.fastjson.JSON;
-import com.github.jwt.bean.JwtConfig;
+import com.github.wy3388.jwt.bean.JwtConfig;
 import io.jsonwebtoken.Claims;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
-import org.springframework.stereotype.Component;
 
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

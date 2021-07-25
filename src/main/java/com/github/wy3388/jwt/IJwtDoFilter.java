@@ -1,6 +1,6 @@
-package com.github.jwt;
+package com.github.wy3388.jwt;
 
-import com.github.jwt.bean.JwtConfig;
+import com.github.wy3388.jwt.bean.JwtConfig;
 
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

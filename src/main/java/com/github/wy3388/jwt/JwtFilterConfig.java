@@ -1,8 +1,7 @@
-package com.github.jwt;
+package com.github.wy3388.jwt;
 
-import com.github.jwt.bean.JwtConfig;
+import com.github.wy3388.jwt.bean.JwtConfig;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.github.jwt;
+package com.github.wy3388.jwt;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.context.annotation.Bean;
@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("com.github.jwt")
+@ComponentScan("com.github.wy3388.jwt")
 public class JwtAutoConfig {
 
     @Bean

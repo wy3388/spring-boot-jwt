@@ -1,4 +1,4 @@
-package com.github.jwt.bean;
+package com.github.wy3388.jwt.bean;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

@@ -1,12 +1,11 @@
-package com.github.jwt;
+package com.github.wy3388.jwt;
 
-import com.github.jwt.bean.JwtConfig;
+import com.github.wy3388.jwt.bean.JwtConfig;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.Arrays;
-import java.util.function.IntFunction;
 
 @SpringBootTest
 class SpringBootStarterJwtApplicationTests {

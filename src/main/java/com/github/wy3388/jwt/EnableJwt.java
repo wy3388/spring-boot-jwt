@@ -1,4 +1,4 @@
-package com.github.jwt;
+package com.github.wy3388.jwt;
 
 import org.springframework.context.annotation.Import;
 
