@@ -1,0 +1,5 @@
+jwt:
+  url: /*
+  key: adfasdfasdfadfsadfasdfsadf
+  exp: 2000
+  white-list: /login
